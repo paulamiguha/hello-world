@@ -1,1 +1,1 @@
-This branch will be as the main branch for learning
+This branch will be used as the main branch for learning
